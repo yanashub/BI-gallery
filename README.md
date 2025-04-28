@@ -3,7 +3,7 @@
 ## Superset 
 **Superset - Общие показатели**
 
-![даш1](https://github.com/yanashub/images/blob/main/superset_overview.jpg?raw=true)
+![даш1](images/superset_overview.jpg)
 
 **Superset анализ удержания пользователей RR**
 
