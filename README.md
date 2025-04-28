@@ -5,10 +5,6 @@
 
 ![даш1](https://github.com/yanashub/images/blob/main/superset_overview.jpg?raw=true)
 
-![даш1](https://raw.githubusercontent.com/yanashub/images/main/superset_overview.jpg?raw=true)
-
-
-
 **Superset анализ удержания пользователей RR**
 
 ![даш2](https://github.com/yanashub/images/blob/main/Ssuperset_retention_rr.jpg?raw=true)
