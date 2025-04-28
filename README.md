@@ -5,6 +5,10 @@
 
 ![даш1](https://github.com/yanashub/images/blob/main/superset_overview.jpg?raw=true)
 
+![даш1](https://raw.githubusercontent.com/yanashub/images/main/superset_overview.jpg?raw=true)
+
+
+
 **Superset анализ удержания пользователей RR**
 
 ![даш2](https://github.com/yanashub/images/blob/main/Ssuperset_retention_rr.jpg?raw=true)
@@ -18,15 +22,15 @@
 ## Google Sheets 
 **Пример автоматического отчета**
 
-![](https://github.com/yanashub/images/blob/main/Walmart.jpg?raw=true)
+![4](https://github.com/yanashub/images/blob/main/Walmart.jpg?raw=true)
 
 
 **При отправке сообщения в телеграмм канал с суммой, в файле google sheets обновлояется отчет**
 
-![](https://github.com/yanashub/images/blob/main/test_bot_report.jpg?raw=true)
+![5](https://github.com/yanashub/images/blob/main/test_bot_report.jpg?raw=true)
 
 
 ## PBI
 
-![](https://github.com/yanashub/images/blob/main/PBI_all_sales.jpg?raw=true)
+![6](https://github.com/yanashub/images/blob/main/PBI_all_sales.jpg?raw=true)
 
