@@ -15,6 +15,16 @@
 ![даш3](images/superset_monitoring.jpg?raw=true)
 
 
+## Yandex DataLens  
+
+![7](images/YaDL.png?raw=true)  
+
+![8](images/yaDL2.png?raw=true)  
+
+![9](images/YaDL3.png?raw=true)  
+
+
+
 ## Google Sheets 
 **Пример автоматического отчета**
 
@@ -30,11 +40,4 @@
 
 ![6](images/PBI_all_sales.jpg?raw=true)  
 
-## Yandex DataLens  
-
-![7](images/YaDL.png?raw=true)  
-
-![8](images/yaDL2.png?raw=true)  
-
-![9](images/YaDL3.png?raw=true)  
 
