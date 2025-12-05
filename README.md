@@ -39,5 +39,7 @@
 ## PBI
 
 ![6](images/PBI_all_sales.jpg?raw=true)  
+![10](images/PBI.png?raw=true)  
+
 
 
