@@ -14,6 +14,10 @@
 
 ![даш3](images/superset_monitoring.jpg?raw=true)
 
+## PBI
+
+![10](images/PBI.png?raw=true)  
+
 
 ## Yandex DataLens  
 
@@ -39,7 +43,7 @@
 ## PBI
 
 ![6](images/PBI_all_sales.jpg?raw=true)  
-![10](images/PBI.png?raw=true)  
+
 
 
 
