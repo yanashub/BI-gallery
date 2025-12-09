@@ -21,11 +21,9 @@
 
 ## Yandex DataLens  
 
-![7](images/YaDL.png?raw=true)  
+![7](images/YaDL4.png?raw=true)  
 
-![8](images/yaDL2.png?raw=true)  
-
-![9](images/YaDL3.png?raw=true)  
+![8](images/YaDL5.png?raw=true)  
 
 
 
