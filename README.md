@@ -25,6 +25,13 @@
 
 ![8](images/YaDL5.png?raw=true)  
 
+![9](images/YaDL6.png?raw=true)  
+
+![10](images/YaDL7.png?raw=true)  
+
+![11](images/YaDL8.png?raw=true)  
+
+![12](images/YaDL9.png?raw=true)  
 
 
 ## Google Sheets 
